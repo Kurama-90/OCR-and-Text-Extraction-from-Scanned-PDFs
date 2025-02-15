@@ -50,6 +50,8 @@ This project extracts text from scanned PDF documents using EasyOCR and PyMuPDF.
  ├── main.py  # Main script for processing PDFs
  ├── requirements.txt  # Dependencies list
  ├── README.md  # Project documentation
+ ├── LICENSE  # MIT License file
+
 ```
 
 ## Contributing
