@@ -61,5 +61,5 @@ Feel free to contribute by submitting issues or pull requests.
 This project is licensed under the MIT License.
 
 ## Author
-[Kurama-90](https://github.com/yourusername)
+[Kurama-90](https://github.com/Kurama-90)
 
