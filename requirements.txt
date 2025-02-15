@@ -1,0 +1,6 @@
+easyocr
+pymupdf
+pdf2image
+opencv-python
+numpy
+pandas
